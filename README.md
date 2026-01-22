@@ -7,7 +7,7 @@ The application fetches data dynamically from an API and provides a clean, respo
 
 ## 🚀 Live Demo
 
-🔗 Live URL: https://book-inventory-react.vercel.app  
+🔗 Live URL: https://book-inventory-react-5gvc.vercel.app 
 🔗 GitHub Repository: https://github.com/Dhirajmali192/book-inventory-react
 
 ---
